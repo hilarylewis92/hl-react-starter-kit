@@ -1,14 +1,2 @@
 @import 'reset.scss';
 @import 'variables.scss';
-
-@import 'input-form.scss';
-@import 'filter-form.scss';
-@import 'login-status.scss';
-@import 'message-field.scss';
-@import 'user-field.scss';
-
-
-*, body, button {
-  font-family: $main-text-family;
-  font-size: 18px;
-}
